@@ -23,12 +23,12 @@
 			"properties": {
 				"activities": [
 					{
-						"name": "Wait1",
+						"name": "Wait by 20 sec",
 						"type": "Wait",
 						"dependsOn": [],
 						"userProperties": [],
 						"typeProperties": {
-							"waitTimeInSeconds": 10
+							"waitTimeInSeconds": 40
 						}
 					}
 				],
